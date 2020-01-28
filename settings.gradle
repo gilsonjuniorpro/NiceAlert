@@ -1,2 +1,2 @@
-include ':app'
+include ':app', ':nicealert'
 rootProject.name='Nice Alert'
